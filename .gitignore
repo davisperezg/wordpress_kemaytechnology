@@ -6,9 +6,6 @@
 !wp-content/themes/tema-test
 !wp-content/themes/tema-test/
 !wp-content/themes/tema-test/*
-!wp-content/plugins
-!wp-content/plugins/frontend-login
-!wp-content/plugins/frontend-login/
-!wp-content/plugins/frontend-login/* 
+
 
   
