@@ -1,4 +1,4 @@
-<header class="encabezado" style="background-color: red;">
+<header class="encabezado" style="background-color: blue;">
     <div class="container-fluid gx-5 py-3">
         <div class="row">
             <div class="encabezado__hamburguesa col-2">
