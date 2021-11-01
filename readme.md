@@ -2,6 +2,10 @@
 
 Por si sale error en el git
 
-`git fetch --all`
+```
+git fetch --all
+```
 
-`git reset --hard origin/{{el nombre de tu rama}}`
+```
+git reset --hard origin/{{el nombre de tu rama}}
+```
